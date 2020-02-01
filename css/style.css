@@ -135,13 +135,14 @@ banner
     background-color: rgba(12, 184, 182) !important;
 }
 #banner{
-	background: url('https://source.unsplash.com/1920x900/?zen,nature,water,forest') no-repeat fixed;
+    /* https://source.unsplash.com/1920x900/?nature,water,forest,landscape */
+	background: url('../img/bg-banner.jpg') no-repeat fixed top center;
 	background-size: cover;
 	min-height: 650px;
 	position: relative;
 }
 .bg-color{
-	background-color: RGBA(13, 70, 83, 0.78);
+	background-color: rgba(34, 13, 83, 0.459);
 	min-height: 650px;
 }
 .banner-info{
