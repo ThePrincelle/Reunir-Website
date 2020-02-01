@@ -30,6 +30,10 @@
     justify-content: space-around;
 }
 
+.card-tiny {
+    width: 34rem !important;
+}
+
 .card {
     width: 40rem;
     margin: 20px;
