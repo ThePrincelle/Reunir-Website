@@ -29,3 +29,11 @@
   });
 
 })(jQuery);
+
+$('#details-presentation').on('show.bs.collapse', function () {
+  $('#arrow-details-presentation').hide();
+})
+
+$('#details-presentation').on('hide.bs.collapse', function () {
+  $('#arrow-details-presentation').show();
+})
