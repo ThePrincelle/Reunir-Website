@@ -136,7 +136,7 @@ banner
 }
 #banner{
     /* https://source.unsplash.com/1920x900/?nature,water,forest,landscape */
-	background: url('../img/bg-banner.jpg') no-repeat fixed top center;
+	background: url('../img/bg-banner.jpg') no-repeat fixed top right;
 	background-size: cover;
 	min-height: 650px;
 	position: relative;
