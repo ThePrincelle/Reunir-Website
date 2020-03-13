@@ -24,10 +24,13 @@
     display: flex;
     margin: auto;
     width: 100%;
-    margin-bottom: 20px;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-around;
+}
+
+.space-under {
+    margin-bottom: 20px;
 }
 
 .card-tiny {
