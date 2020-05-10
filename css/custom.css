@@ -20,7 +20,8 @@
     }
 
     #banner {
-        background-size: inherit;
+        background-size: contain;
+        background-position: center center;
     }
 }
 
