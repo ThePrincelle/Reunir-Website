@@ -18,11 +18,6 @@
     td {
         width: 45%;
     }
-
-    #banner {
-        background-size: cover !important;
-        background-position: center center;
-    }
 }
 
 .services-cards {
