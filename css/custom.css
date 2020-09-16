@@ -110,3 +110,8 @@ h5 {
     object-fit: cover;
     border-radius: 3px;
 }
+
+#materiel-psychamarche li {
+    list-style-type: circle;
+    padding: 2px;
+}
