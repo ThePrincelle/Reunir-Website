@@ -91,7 +91,7 @@ banner
 
 @media (max-width: 768px) {
 	.navbar-collapse {
-		background: rgba(28,74,90, 0.9);
+        background: rgba(28,74,90, 0.9);
 	}
 }
 

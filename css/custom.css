@@ -18,6 +18,10 @@
     td {
         width: 45%;
     }
+
+    .wrap-mobile {
+        flex-wrap: wrap;
+    }
 }
 
 #banner {
@@ -95,7 +99,7 @@ h5 {
     color: white;
 }
 
-.collapse li {
+#details-presentation li {
     list-style-type: circle;
     padding: 2px;
 }
