@@ -115,3 +115,8 @@ h5 {
     list-style-type: circle;
     padding: 2px;
 }
+
+#infos-compl-psychamarche li {
+    list-style-type: decimal;
+    padding: 4px;
+}
