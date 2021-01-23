@@ -116,6 +116,11 @@ h5 {
     padding: 2px;
 }
 
+#event-planning li {
+    list-style-type: circle;
+    padding: 2px;
+}
+
 #infos-compl-psychamarche li {
     list-style-type: decimal;
     padding: 4px;
