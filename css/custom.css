@@ -125,3 +125,8 @@ h5 {
     list-style-type: decimal;
     padding: 4px;
 }
+
+#docs-necessary li {
+    list-style-type: circle;
+    padding: 2px;
+}
